@@ -16,4 +16,4 @@ will generate the information that is linked to the age inserted but if the user
 that will prompt the user to re-insert the age that is in the selected age criteria.The age will be linked to the historic figures'age but in this case the age they
 passed on in.
 
-Here i will discuss how i used github.
+Here i will discuss how i used github.It is used to run test 
