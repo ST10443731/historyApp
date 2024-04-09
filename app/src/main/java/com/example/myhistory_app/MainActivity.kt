@@ -27,20 +27,15 @@ class MainActivity : AppCompatActivity() {
                 //Toast.makeText(this@MainActivity, "Button clicked", Toast.LENGTH_LONG).show()
 
                 //for display
-                var william =
-                    "William Shakespeare was an english playwright ,poet and actor.He passed at the age 52"
-                val abraham =
-                    "Abraham Lincon was a politian,lawyer and a stateman." +
-                            "he passed at the age of 56"
-                val winnie =
-                    "Winnie Mandela was a South African anti-apartheid activist .she passed at the 81."
-                val neil =
-                    "Neil Armstrong was the first man to walk on the moon .He passed at the age 82"
-                val walt =
-                    "Walt Disney he was a film producer and an entrepreneur.He passed at the age 65"
-                val Queen ="Queen elizabeth was the queen of the United Kingdom.She passed at the age of 96 "
-                  val isaac ="Isaac Newton was an english polymath active as a mathematician. He passed at age 84"
-
+        var william = "William Shakespeare was an english playwright ,poet and actor.He passed at the age 52"
+        val abraham = "Abraham Lincon was a politian,lawyer and a stateman."
+        val winnie = "Winnie Mandela was a South African anti-apartheid activist .she passed at the 81."
+        val neil = "Neil Armstrong was the first man to walk on the moon .He passed at the age 82"
+        val walt = "Walt Disney he was a film producer and an entrepreneur.He passed at the age 65"
+        val Queen ="Queen Elizibath was the Queen of the United Kingdom.She passed away at the age of 96"
+        val isaac ="Isaac Newton was an english polymath active as a mathematician. He passed at age 84"
+        val steve ="Steve Biko was anti-apartheid activist in South Africa. He passed away at the age of 30"
+        val solomon ="Solomon Mahlangu was a South African freedom fighter.He passed at the age of "
 
                 //for clear
                 val nothing = ""
@@ -67,6 +62,8 @@ class MainActivity : AppCompatActivity() {
                                 input2.text=isaac
                             if (research.toInt()==96)
                                 input2.text=Queen
+                            if (research.toInt()==30)
+                                input2.text=steve
 
                             }
                           //for the button clear
