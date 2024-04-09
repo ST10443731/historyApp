@@ -6,7 +6,7 @@ are familiar with which is technology.It is created for the perposes of making l
 can also help the educators in preparing for their lesson with learners which will make it more easier by getting the information they will need easily 
 and faster.The app will not only make it fun for the learners but it will make it even more enjoyable for the educators to educate .
 
-Every historic figure in this app has made significant impact during their time .Every one of the figures made an astonishing influence around the world .
+Every historic figure in this app has made significant impact during their time .
 
 Now here i will discuss about the display of the app.Firstly i used a morden but also historic library background to grap the attention of the users before even 
 using it. The background is surely to make the users interested. The title on the top is to give the user an idea on what the app is about. I gave as much as possible
@@ -14,6 +14,7 @@ clear instructions that they as the user should do to start.I added two buttons 
 visible text for the user to know which button is for display and the other to clear.when the user insert a certain age that is in the age criteria selected the app 
 will generate the information that is linked to the age inserted but if the user insert an age that is not in the selected age criteria the app wil display a massege
 that will prompt the user to re-insert the age that is in the selected age criteria.The age will be linked to the historic figures'age but in this case the age they
-passed on in.
+passed on in. The app was tested to make sure that the user using it will enjoy.
 
-Here i will discuss how i used github.It is used to run test 
+Here i will discuss how i used github.It is used to run test and build my code to make sure that the app will work on not just my computer but other users too but also that 
+it may function how it is expected to  function.
