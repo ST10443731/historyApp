@@ -18,3 +18,11 @@ passed on in. The app was tested to make sure that the user using it will enjoy.
 
 Here i will discuss how i used github.It is used to run test and build my code to make sure that the app will work on not just my computer but other users too but also that 
 it may function how it is expected to  function.
+
+The following are the app images:
+![CODEscreenshot2](https://github.com/ST1044373BO/historyApp/assets/161457359/95f41e2b-8db4-4bc8-b1ba-a539c883c8fe)
+![CODEscreenshot](https://github.com/ST1044373BO/historyApp/assets/161457359/8e9d7dd9-7cef-4307-acc1-cec9b791e52d)
+![CODEscreenshot3](https://github.com/ST1044373BO/historyApp/assets/161457359/b7cfe2b1-8118-4718-ac7e-5952507e6b1c)
+![CODEscreenshot4](https://github.com/ST1044373BO/historyApp/assets/161457359/2a89a484-3bac-4ec0-8115-2537ef05ec82)
+![CODEscreenshot5](https://github.com/ST1044373BO/historyApp/assets/161457359/66f7cc86-683d-430b-9405-82fc56f63faa)
+![image12](https://github.com/ST1044373BO/historyApp/assets/161457359/af08d39b-c123-4a14-8570-9eec0d3342b1)
