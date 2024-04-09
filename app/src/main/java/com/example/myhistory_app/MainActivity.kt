@@ -35,7 +35,8 @@ class MainActivity : AppCompatActivity() {
         val Queen ="Queen Elizibath was the Queen of the United Kingdom.She passed away at the age of 96"
         val isaac ="Isaac Newton was an english polymath active as a mathematician. He passed at age 84"
         val steve ="Steve Biko was anti-apartheid activist in South Africa. He passed away at the age of 30"
-        val solomon ="Solomon Mahlangu was a South African freedom fighter.He passed at the age of "
+        val solomon ="Solomon Mahlangu was a South African freedom fighter.He passed at the age of 22"
+
 
                 //for clear
                 val nothing = ""
@@ -64,6 +65,8 @@ class MainActivity : AppCompatActivity() {
                                 input2.text=Queen
                             if (research.toInt()==30)
                                 input2.text=steve
+                            if (research.toInt()==22)
+                                input2.text=solomon
 
                             }
                           //for the button clear
