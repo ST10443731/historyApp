@@ -19,12 +19,7 @@ class MainActivity : AppCompatActivity() {
         var generate = findViewById<Button>(R.id.generateBtn)
         var clear = findViewById<Button>(R.id.clearBtn)
 
-        //get the button message
-        //generate?.setOnClickListener {
-            //Toast.makeText(this@MainActivity, "Buttun clicked", Toast.LENGTH_LONG).show()
-
-            //clear?.setOnClickListener {
-                //Toast.makeText(this@MainActivity, "Button clicked", Toast.LENGTH_LONG).show()
+        
 
                 //for display
         var william = "William Shakespeare was an english playwright ,poet and actor.He passed at the age 52"
